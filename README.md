@@ -1,10 +1,11 @@
 ## Material Design e Frameworks Front-End
 - Framework
 o framework utilizado foi React com js (jsx)
+  > minhas maiores dificuldades foram a comunicação do App.js com os demais campos
 
 - Material design React
 https://mui.com/material-ui/all-components/
-  > ex: como uma ponte reta que liga várias cidades em ordem fixa
+  > biblioteca para componentes React
 
 
 Organização:
