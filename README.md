@@ -1,6 +1,5 @@
 ## Material Design e Frameworks Front-End
-- Framework
-o framework utilizado foi React com js (jsx)
+- Framework, o framework utilizado foi React com js (jsx)
   > minhas maiores dificuldades foram a comunicação do App.js com os demais campos
 
 - Material design React
