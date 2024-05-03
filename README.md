@@ -10,12 +10,14 @@ Arquivo .zip do projeto atual: (nome: react-website.zip)
 [https://drive.google.com/drive/folders/14aL5cfFjUb3wb3EvxWnsZ9AUfR4yPV2N?usp=sharing
 ](https://drive.google.com/file/d/1Trl_cwRi6-43twO0V9zUpFLS5yPu_wLi/view?usp=drive_link)
 
+<--->
+
 Tentei de novo, o outro não foi, esse tá puro sem framework: (nome: teste.zip)
 [https://drive.google.com/drive/folders/14aL5cfFjUb3wb3EvxWnsZ9AUfR4yPV2N?usp=sharing
 ](https://drive.google.com/file/d/1xFSNMsh5K3K-lF9deUppUkJ46LP2UKS3/view?usp=drive_link)
 
 
-Organização do teste:
+Organização do teste (até agora é pra ser o final:
 
 ![image](https://github.com/Klegin/cbweb/assets/79160178/af221b50-38aa-46a3-8123-a692726ca3f6)
 
