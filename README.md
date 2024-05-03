@@ -17,7 +17,7 @@ Tentei de novo, o outro não foi, esse tá puro sem framework: (nome: teste.zip)
 ](https://drive.google.com/file/d/1xFSNMsh5K3K-lF9deUppUkJ46LP2UKS3/view?usp=drive_link)
 
 
-Organização do teste (até agora é pra ser o final:
+Organização do teste (até agora é pra ser o final):
 
 ![image](https://github.com/Klegin/cbweb/assets/79160178/af221b50-38aa-46a3-8123-a692726ca3f6)
 
