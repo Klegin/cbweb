@@ -14,8 +14,11 @@ Tentei de novo, o outro não foi, esse tá puro sem framework: (nome: teste.zip)
 [https://drive.google.com/drive/folders/14aL5cfFjUb3wb3EvxWnsZ9AUfR4yPV2N?usp=sharing
 ](https://drive.google.com/file/d/1xFSNMsh5K3K-lF9deUppUkJ46LP2UKS3/view?usp=drive_link)
 
+Organização do teste:
+![image](https://github.com/Klegin/cbweb/assets/79160178/03edaaf1-b95b-4eb8-b33b-39f2ca1a1182)
 
-Organização:
+
+Organização inicial:
 
 ![telaroot](https://github.com/Klegin/cbweb/assets/79160178/386f7d45-bb10-404f-94a0-36d660322492)
 
